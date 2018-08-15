@@ -37,6 +37,8 @@
 	box-sizing: border-box;
 	padding:17.5px;
 	padding-left:  100px;
+	filter: drop-shadow(20px 10px 10px black);
+
 }
   #searchinput{
 		width: 775px;
